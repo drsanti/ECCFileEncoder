@@ -2,7 +2,7 @@
 
 ---
 
-## File Submission
+## File Submission Steps
 
 1 Run the `EccFileEncoder v1.0.1.exe` (Right-click and `Run as administrator`)
 
@@ -18,7 +18,7 @@
 
 ---
 
-## Download and Install
+## Download and Install the EccFileEncoder
 
 1 Download the [ECCFileEncoder](./EccFileEncoder v1.0.1.zip).
 
