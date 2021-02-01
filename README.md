@@ -6,7 +6,7 @@
 
 1 Run the `EccFileEncoder v1.0.1.exe` (Right-click and `Run as administrator`)
 
-2 Complete all yout information and submission fields.
+2 Complete all Your Information and Submission Information fields.
 
 3 Click the `Generate` button to generate the terget file.
 
