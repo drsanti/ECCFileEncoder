@@ -12,7 +12,7 @@
 
 4 Click the `Open Dir` button to open the output directory.
 
-5 Upload the target file into the specified google drive.
+5 Upload the target file to the specified google drive.
 
 ![alt text](./images/ECCFileEncoder.png)
 
