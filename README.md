@@ -4,7 +4,7 @@
 
 ## File Submission Steps
 
-1 Run the `EccFileEncoder v1.0.1.exe` (Right-click and `Run as administrator`)
+1 Run the `EccFileEncoder v1.0.2.exe` (Right-click and `Run as administrator`)
 
 2 Complete the `Your Information` and `Submission Information` fields.
 
