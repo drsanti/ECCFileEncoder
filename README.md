@@ -20,6 +20,11 @@
 
 ## Download and Install the EccFileEncoder
 
-1 Download the [ECCFileEncoder](EccFileEncoderv1.0.1.zip)
+1 Download the [EccFileEncoderv1.0.2](EccFileEncoderv1.0.2.zip)
 
 2 Extract the file using [7Zip](https://www.7-zip.org/) or another.
+
+---
+
+## Older Versions
+Download the [EccFileEncoderv1.0.1](EccFileEncoderv1.0.1.zip)
